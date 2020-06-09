@@ -55,7 +55,7 @@ echo "<!DOCTYPE html>
     <meta name=\"viewport\" content=\"initial-scale=1, width=device-width\" />
     <title>TypeScript/Mithril App</title>
     <link rel=\"stylesheet\" type=\"text/css\" href=\"css/styles.css\" />
-    <script src=\"bin/app.js\" defer></script>
+    <script src="../bin/app.js" defer></script>
   </head>
   <body></body>
 </html>
